@@ -16,6 +16,10 @@ INSERT INTO Person
         ('Zulkifl', 'Khan', 'khanz', 'kiwi8', 3),
         ('Matthew', 'Musk', 'muskm', 'apple1', 1),
         ('Jake','Walker','Walking','ekaj',3),
+        ('Walker','Walker','Number','Walking',3),
+        ('roiugnmudo','Waker','Walking','ekaj',3),
+        ('John','Walker','roiugnmudo','not john',3),
+        ('Jakey','Jake','Walker','eka',1),
         ('The', 'Bank', 'banker', 'secret', 4);
 
 CREATE TABLE Payment (
